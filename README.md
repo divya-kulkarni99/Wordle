@@ -26,21 +26,21 @@ Open your terminal and run:
 
 `git clone https://github.com/divya-kulkarni99/Wordle.git`
 
-### \*\*Step 2. Navigate to the Project Directory
+### Step 2. Navigate to the Project Directory
 
 `cd Wordle`
 
-### \*\*Step 3. Install Dependencies
+### Step 3. Install Dependencies
 
 `npm install`
 or
 `yarn install`
 
-### \*\*Step 4. Start the JSON Server
+### Step 4. Start the JSON Server
 
 `npx json-server --watch ./data/db.json --port 3001`
 
-### \*\*Step 5. Start the React Application
+### Step 5. Start the React Application
 
 In terminal2 of the project and run
 `npm run dev`
