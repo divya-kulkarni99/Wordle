@@ -42,7 +42,7 @@ or
 
 ### Step 5. Start the React Application
 
-In terminal2 of the project and run
+Open a terminal in the project and run
 `npm run dev`
 
 # Happy Wordling! May the letters be ever in your favor! 🚀🎉
