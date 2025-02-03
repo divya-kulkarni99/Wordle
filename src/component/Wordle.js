@@ -20,7 +20,7 @@ export default function Wordle({ solution }) {
     }
 
     return () => window.removeEventListener('keyup', handleKeyup);
-  }, [handleKeyup, isCorrect]);
+  }, [handleKeyup, isCorrect, turn]);
 
   return (
     <div>
